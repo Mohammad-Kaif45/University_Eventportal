@@ -45,6 +45,16 @@ The University Event Portal is built with a modern tech stack:
   - Real-time notifications for event updates
   - Email notifications for registration confirmation
   - Reminder notifications for upcoming events
+## Screenshot
+![image](https://github.com/user-attachments/assets/c46204cd-bb5f-406c-90f3-593813d50279)
+
+![image](https://github.com/user-attachments/assets/666715e1-6e49-433c-91e9-ee143c37225a)
+
+![image](https://github.com/user-attachments/assets/48b6a1a6-20af-48c1-a311-52458e993107)
+![image](https://github.com/user-attachments/assets/248158c1-8f40-4f71-b0b8-ef0f99b7a4a5)
+![image](https://github.com/user-attachments/assets/36217fae-0e46-420a-8b2b-0df17ef25a1c)
+
+
 
 ## Project Structure
 

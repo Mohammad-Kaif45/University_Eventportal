@@ -118,4 +118,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [Express](https://expressjs.com/)
 - [MongoDB](https://www.mongodb.com/)
 - [TailwindCSS](https://tailwindcss.com/)
-- [Node.js](https://nodejs.org/) 
+- [Node.js](https://nodejs.org/)
